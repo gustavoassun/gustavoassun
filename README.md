@@ -57,9 +57,9 @@
 <img src="https://raw.githubusercontent.com/gustavoassun/gustavoassun/output/snake.svg" alt="Snake animation" />
 
 ###
-
+---
 <div align="center">
-  <img height="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ1OWszeTJtY2docDJ5NHBvZ3k2amZzdHl3d29id2dybG1pc282ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ov9nswzIf4vmtnhRpY/giphy.gif"  />
+  <img height="480" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ1OWszeTJtY2docDJ5NHBvZ3k2amZzdHl3d29id2dybG1pc282ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ov9nswzIf4vmtnhRpY/giphy.gif"  />
 </div>
 
 ###
