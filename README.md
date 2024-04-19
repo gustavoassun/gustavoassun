@@ -37,7 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gustavoassun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
-###
 
 <br clear="both">
 
@@ -49,14 +48,16 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gq34q593sdkd8mm3lkewxnna8&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=e12323&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gq34q593sdkd8mm3lkewxnna8&redirect=true)
 
-###
+</div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gustavoassun/gustavoassun/output/snake.svg" alt="Snake animation" />
 
-###
 ---
 <div align="center">
   <img height="480" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ1OWszeTJtY2docDJ5NHBvZ3k2amZzdHl3d29id2dybG1pc282ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ov9nswzIf4vmtnhRpY/giphy.gif"  />
