@@ -8,7 +8,7 @@
 <details>
   <summary>👨‍💻 Mais Sobre mim:</summary>
 
-  - 💬 Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UNDB. Desde que comecei a explorar o uso da tecnologia, minha curiosidade sobre os sistemas e seus componentes só aumentou. Agora, estou me aprofundando nessa área, ansioso para aprender e construir algo novo. 
+  - 💬 Tenho 20 anos e sou estudante de Engenharia de Software na UNDB. Desde que comecei a explorar o uso da tecnologia, minha curiosidade sobre os sistemas e seus componentes só aumentou. Agora, estou me aprofundando nessa área, ansioso para aprender e construir algo novo. 
    
   - ⚡ gosto de assistir filmes e séries, ler/assistir animes e mangás, e apreciar uma boa música. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. 
 </details>
