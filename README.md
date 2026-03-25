@@ -2,7 +2,7 @@
 
 ###
 ---
-<p align="left">🌱 Atualmente estou estudando  Python | HTML | CSS | JavaScript<br><br>⚙️Estou procurando minha primeira oportunidade de emprego.</p>
+<p align="left">🌱 Atualmente estou estudando  Python | HTML | CSS | JavaScript<br><br>⚙️Em busca de aprender cada vez mais!</p>
 <!-- Dropdown -->
 
 <details>
