@@ -2,10 +2,14 @@
   <img src="./assets/my-future-banner.gif" width="100%" alt="Cena animada de my future" />
 </div>
 
-<h1 align="center">Gustavo Assunção 🎧💻✨</h1>
+<h1 align="center">Gustavo Assunção</h1>
 
 <p align="center">
-  <em>entre código, música e ideias que ganham forma.</em>
+  <strong>Engenharia de Software · Desenvolvimento Web · Dados</strong>
+</p>
+
+<p align="center">
+  <sub>Curioso por sistemas, experiências digitais e pela forma como a tecnologia organiza o cotidiano.</sub>
 </p>
 
 <p align="center">
@@ -25,9 +29,11 @@
 
 > **21 anos** · Engenharia de Software na **UNDB** · São Luís, MA
 
-Gosto de transformar curiosidade em coisas **úteis, organizadas e bonitas de usar**. Entre código, design e música, vou construindo meu jeito de aprender: testando ideias, refinando detalhes e deixando o complicado mais simples.
+Sou estudante de Engenharia de Software e gosto de aprender investigando como as coisas funcionam. Tenho interesse por **desenvolvimento web, organização de dados e processos** — caminhos que já exploro em projetos acadêmicos e práticos, de interfaces e simuladores ao tratamento de dados com Python.
 
-`criatividade` · `organização` · `tecnologia` · `design` · `música`
+Tenho um olhar naturalmente organizado e visual: gosto de testar, ajustar e deixar cada entrega clara, útil e agradável de usar.
+
+`desenvolvimento web` · `dados` · `automação` · `design` · `aprendizado contínuo`
 
 🎧 Música, histórias e jogos também fazem parte do jeito como observo, penso e crio.
 
