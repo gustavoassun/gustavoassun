@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="154" viewBox="0 0 760 154" role="img" aria-labelledby="title desc">
+  <title id="title">Tecnologias no caminho</title>
+  <desc id="desc">Painel azul-noir com Python, JavaScript, TypeScript, HTML e CSS.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity=".75"/>
+      <stop offset=".5" stop-color="#6366f1" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity=".72"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="758" height="152" rx="18" fill="#0b1120" stroke="url(#frame)" stroke-width="2"/>
+  <text x="30" y="35" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.7">STACK EM CONSTRUÇÃO</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(30 56)">
+      <rect width="126" height="66" rx="13" fill="#111c31" stroke="#253858"/>
+      <circle cx="28" cy="33" r="15" fill="#172b48"/>
+      <text x="28" y="38" text-anchor="middle" fill="#93c5fd" font-size="13" font-weight="700">Py</text>
+      <text x="53" y="38" fill="#e5e7eb" font-size="14" font-weight="600">Python</text>
+    </g>
+    <g transform="translate(169 56)">
+      <rect width="132" height="66" rx="13" fill="#111c31" stroke="#29385d"/>
+      <circle cx="28" cy="33" r="15" fill="#1d2a4d"/>
+      <text x="28" y="38" text-anchor="middle" fill="#c4b5fd" font-size="12" font-weight="700">JS</text>
+      <text x="53" y="38" fill="#e5e7eb" font-size="14" font-weight="600">JavaScript</text>
+    </g>
+    <g transform="translate(314 56)">
+      <rect width="132" height="66" rx="13" fill="#111c31" stroke="#263a62"/>
+      <circle cx="28" cy="33" r="15" fill="#172e55"/>
+      <text x="28" y="38" text-anchor="middle" fill="#7dd3fc" font-size="12" font-weight="700">TS</text>
+      <text x="53" y="38" fill="#e5e7eb" font-size="14" font-weight="600">TypeScript</text>
+    </g>
+    <g transform="translate(459 56)">
+      <rect width="126" height="66" rx="13" fill="#111c31" stroke="#30345c"/>
+      <circle cx="28" cy="33" r="15" fill="#282449"/>
+      <text x="28" y="38" text-anchor="middle" fill="#c4b5fd" font-size="12" font-weight="700">&lt;/&gt;</text>
+      <text x="53" y="38" fill="#e5e7eb" font-size="14" font-weight="600">HTML</text>
+    </g>
+    <g transform="translate(598 56)">
+      <rect width="132" height="66" rx="13" fill="#111c31" stroke="#283b60"/>
+      <circle cx="28" cy="33" r="15" fill="#192f54"/>
+      <text x="28" y="38" text-anchor="middle" fill="#93c5fd" font-size="14" font-weight="700">#</text>
+      <text x="53" y="38" fill="#e5e7eb" font-size="14" font-weight="600">CSS</text>
+    </g>
+  </g>
+</svg>

@@ -21,6 +21,8 @@
 
 ### um pouco sobre mim
 
+<img align="right" width="245" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxaDdjZHc3aGs0a21lNzNjMmh6cWhndThwd3kxcWJjNndueHM3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GBPoNA8lPYuqvY96Ae/giphy.gif" alt="Sapinho na chuva em my future" />
+
 > **21 anos** · Engenharia de Software na **UNDB** · São Luís, MA
 
 Gosto de transformar curiosidade em coisas **úteis, organizadas e bonitas de usar**. Entre código, design e música, vou construindo meu jeito de aprender: testando ideias, refinando detalhes e deixando o complicado mais simples.
@@ -29,25 +31,22 @@ Gosto de transformar curiosidade em coisas **úteis, organizadas e bonitas de us
 
 🎧 Billie Eilish no fone. 🎮 De vez em quando, tentando sobreviver em Raccoon City.
 
+<br clear="right" />
+
 ### tecnologias que fazem parte do caminho
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS" />
-</div>
+<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxaDdjZHc3aGs0a21lNzNjMmh6cWhndThwd3kxcWJjNndueHM3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SdnntExj1MnSQqZ81G/giphy.gif" alt="Aranha na chuva em my future" />
+
+<img width="70%" src="./assets/tech-stack.svg" alt="Tecnologias que fazem parte do caminho" />
+
+<br clear="right" />
 
 ### tocando por aqui 🎧
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxaDdjZHc3aGs0a21lNzNjMmh6cWhndThwd3kxcWJjNndueHM3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sSBk9qhEi7uVMUVeq7/giphy.gif" width="27%" alt="Lua refletida na chuva em my future" />
   <a href="https://open.spotify.com/user/gq34q593sdkd8mm3lkewxnna8">
-    <img src="./assets/spotify-card.svg" width="72%" alt="Gus no Spotify" />
+    <img src="./assets/spotify-card.svg" width="68%" alt="Gus no Spotify" />
   </a>
 </div>
 
