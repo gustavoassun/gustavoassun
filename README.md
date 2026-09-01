@@ -25,7 +25,7 @@
 
 ### um pouco sobre mim
 
-<img align="right" width="245" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxaDdjZHc3aGs0a21lNzNjMmh6cWhndThwd3kxcWJjNndueHM3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GBPoNA8lPYuqvY96Ae/giphy.gif" alt="Sapinho na chuva em my future" />
+<img align="right" width="245" src="./assets/sapo-noir.gif" alt="Sapinho na chuva em my future" />
 
 > **21 anos** · Engenharia de Software na **UNDB** · São Luís, MA
 
@@ -41,7 +41,7 @@ Tenho um olhar naturalmente organizado e visual: gosto de testar, ajustar e deix
 
 ### tecnologias que fazem parte do caminho
 
-<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxaDdjZHc3aGs0a21lNzNjMmh6cWhndThwd3kxcWJjNndueHM3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SdnntExj1MnSQqZ81G/giphy.gif" alt="Aranha na chuva em my future" />
+<img align="right" width="220" src="./assets/aranha-noir.gif" alt="Aranha na chuva em my future" />
 
 <img width="70%" src="./assets/tech-stack.svg" alt="Tecnologias que fazem parte do caminho" />
 
@@ -50,9 +50,9 @@ Tenho um olhar naturalmente organizado e visual: gosto de testar, ajustar e deix
 <h3 align="center">─────── 💙 ouvindo agora ───────</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxaDdjZHc3aGs0a21lNzNjMmh6cWhndThwd3kxcWJjNndueHM3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sSBk9qhEi7uVMUVeq7/giphy.gif" width="27%" alt="Lua refletida na chuva em my future" />
+  <img src="./assets/lua-noir.gif" width="215" alt="Lua refletida na chuva em my future" />
   <a href="https://open.spotify.com/user/gq34q593sdkd8mm3lkewxnna8">
-    <img src="./assets/spotify-card.svg" width="68%" alt="Gus no Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gq34q593sdkd8mm3lkewxnna8&cover_image=true&theme=spotify-embed&show_offline=true&background_color=181818&interchange=false&bar_color=60a5fa&bar_color_cover=false" width="460" alt="Música que Gustavo está ouvindo no Spotify" />
   </a>
 </div>
 
