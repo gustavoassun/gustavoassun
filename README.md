@@ -29,7 +29,7 @@ Gosto de transformar curiosidade em coisas **úteis, organizadas e bonitas de us
 
 `criatividade` · `organização` · `tecnologia` · `design` · `música`
 
-🎧 Billie Eilish no fone. 🎮 De vez em quando, tentando sobreviver em Raccoon City.
+🎧 Música, histórias e jogos também fazem parte do jeito como observo, penso e crio.
 
 <br clear="right" />
 
