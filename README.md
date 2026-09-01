@@ -52,7 +52,7 @@ Tenho um olhar naturalmente organizado e visual: gosto de testar, ajustar e deix
 <div align="center">
   <img src="./assets/lua-noir.gif" width="215" alt="Lua refletida na chuva em my future" />
   <a href="https://open.spotify.com/user/gq34q593sdkd8mm3lkewxnna8">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gq34q593sdkd8mm3lkewxnna8&cover_image=true&theme=spotify-embed&show_offline=true&background_color=181818&interchange=false&bar_color=60a5fa&bar_color_cover=false" width="460" alt="Música que Gustavo está ouvindo no Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gq34q593sdkd8mm3lkewxnna8&cover_image=true&theme=spotify-embed&show_offline=true&mode=dark&border_radius=12&background_color=181818&interchange=false&bar_color=60a5fa&bar_color_cover=false" width="460" alt="Música que Gustavo está ouvindo no Spotify" />
   </a>
 </div>
 
