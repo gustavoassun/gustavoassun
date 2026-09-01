@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW96Mnp3NDVrNWg4amEwdXhpN2xnOHY2aTBrNzVvcGw3eHJ4dmdzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ov9nswzIf4vmtnhRpY/giphy.gif" width="82%" alt="Cena animada de my future" />
+  <img src="./assets/my-future-banner.gif" width="100%" alt="Cena animada de my future" />
 </div>
 
 <h1 align="center">Gustavo Assunção 🎧💻✨</h1>
