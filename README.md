@@ -41,7 +41,7 @@ Gosto de transformar curiosidade em coisas **úteis, organizadas e bonitas de us
 
 <br clear="right" />
 
-### tocando por aqui 🎧
+<h3 align="center">─────── 💙 ouvindo agora ───────</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NxaDdjZHc3aGs0a21lNzNjMmh6cWhndThwd3kxcWJjNndueHM3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sSBk9qhEi7uVMUVeq7/giphy.gif" width="27%" alt="Lua refletida na chuva em my future" />
