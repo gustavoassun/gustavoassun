@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="116" viewBox="0 0 640 116" role="img" aria-labelledby="title desc">
+  <title id="title">Gus no Spotify</title>
+  <desc id="desc">Cartão minimalista com link para a trilha sonora de Gustavo.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity=".75"/>
+      <stop offset=".55" stop-color="#818cf8" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#1db954" stop-opacity=".65"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#1db954"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="638" height="114" rx="18" fill="#0b1120" stroke="url(#border)" stroke-width="2"/>
+  <circle cx="58" cy="58" r="27" fill="#111c31" stroke="#263552"/>
+  <path d="M51 45.5 72 58 51 70.5Z" fill="#e5e7eb"/>
+  <text x="101" y="46" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.8">MINHA TRILHA SONORA</text>
+  <text x="101" y="75" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">Gus :) no Spotify</text>
+  <g fill="url(#glow)" opacity=".9">
+    <rect x="470" y="48" width="5" height="20" rx="2.5"/>
+    <rect x="482" y="39" width="5" height="38" rx="2.5"/>
+    <rect x="494" y="30" width="5" height="56" rx="2.5"/>
+    <rect x="506" y="43" width="5" height="30" rx="2.5"/>
+    <rect x="518" y="35" width="5" height="46" rx="2.5"/>
+    <rect x="530" y="25" width="5" height="66" rx="2.5"/>
+    <rect x="542" y="42" width="5" height="32" rx="2.5"/>
+    <rect x="554" y="48" width="5" height="20" rx="2.5"/>
+    <rect x="566" y="37" width="5" height="42" rx="2.5"/>
+    <rect x="578" y="45" width="5" height="26" rx="2.5"/>
+  </g>
+  <circle cx="605" cy="58" r="4" fill="#1db954"/>
+</svg>
