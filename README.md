@@ -47,7 +47,7 @@ Tendo um olhar naturalmente organizado e visual: gosto de testar, ajustar e deix
 
 <br claro="certo" />
 
-<h3 alinhar="centro">─────── 💙 ouvindo Agora 🎧───────</h3>
+<h3 alinhar="centro"─────── 💙 ouvindo Ágora 🎧─────── 💙 ouvindo Ágora <//h3>
 
 <dividir alinhar="centro">
   <imagem fonte="./ativos/lua-noir.gif" largura="256" alt="Lua refletida na chuva em meu futuro" />
